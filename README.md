@@ -7,7 +7,7 @@ This project hosts a full-stack application supporting the tracking of granular 
 * React
 * TypeScript
 * Vite
-* TailwindCSS
+* Shadcn UI
 
 ## Backend
 * Node.js v24
